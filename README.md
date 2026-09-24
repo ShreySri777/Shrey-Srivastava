@@ -119,7 +119,7 @@ I'm working towards becoming a versatile software developer with strong skills i
 https://github.com/ShreySri777
 
 **LinkedIn:**  
-https://www.linkedin.com/in/shrey-srivastava-11878637b/
+https://www.linkedin.com/in/shrey-srivastava07/
 
 ---
 

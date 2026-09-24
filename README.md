@@ -1,2 +1,4 @@
-# Shrey-Srivastava
-A personal portfolio repository highlighting my projects, technical skills, achievements, and journey in software development.
+# Hi, I'm Shrey-Srivastava
+🎓 Computer Science and Design student at Dayananda Sagar College of Engineering
+
+💻 Aspiring Software Developer | Full Stack Developer
